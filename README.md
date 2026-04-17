@@ -35,7 +35,6 @@
 #### 🤖 IA, Machine Learning & Analyse
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da96e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="tensorflow"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="pytorch"/></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit_learn"/></td>
@@ -91,5 +90,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elrouas&show_icons=true&locale=fr&layout=compact" alt="elrouas" />
   <img src="https://github-readme-stats.vercel.app/api?username=elrouas&show_icons=true&locale=fr" alt="elrouas" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elrouas&label=Profile%20views&color=0e75b6&style=flat" alt="elrouas" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elrouas&label=Profile%20views&color=0e75b6&style=flat" alt="elrouas" /> </p>
 
