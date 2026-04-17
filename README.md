@@ -1,9 +1,6 @@
 <h1 align="center">Salut 👋, je suis Lila ROUAS</h1>
 <h3 align="center">Ingénieur de données et IA Junior | Python · SQL · Pipelines de données | À la recherche d'un premier CDI | Disponible immédiatement</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elrouas&label=Profile%20views&color=0e75b6&style=flat" alt="elrouas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elrouas" alt="elrouas" /></a> </p>
 
 - 🔭 Je travaille actuellement sur **des projets data pour mettre en pratique mes compétences, tout en me formant sur n8n et Microsoft Fabric, et en préparant des certifications cloud (AWS, GCP).**
 - 🌱 J’apprends actuellement **le Cloud avec AWS et GCP afin de renforcer mes compétences en ingénierie des données.**
@@ -94,3 +91,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elrouas&show_icons=true&locale=fr&layout=compact" alt="elrouas" />
   <img src="https://github-readme-stats.vercel.app/api?username=elrouas&show_icons=true&locale=fr" alt="elrouas" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elrouas&label=Profile%20views&color=0e75b6&style=flat" alt="elrouas" /> </p>
+
