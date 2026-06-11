@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Lila ROUAS</h1>
-<h3 align="center">Ingénieur de données et IA Junior | Python · SQL · Pipelines de données | À la recherche d'un premier CDI | Disponible immédiatement</h3>
+<h3 align="center">Ingénieur de données et IA| Python · SQL · Pipelines de données | À la recherche d'un CDI | Disponible immédiatement</h3>
 
 
 - 🔭 Je travaille actuellement sur **des projets data pour mettre en pratique mes compétences, tout en me formant sur n8n et Microsoft Fabric, et en préparant des certifications cloud (AWS, GCP).**
